@@ -1,0 +1,5 @@
+package com.bridgelabz.spring.domain.impl;
+
+public interface RSAEncryption {
+
+}

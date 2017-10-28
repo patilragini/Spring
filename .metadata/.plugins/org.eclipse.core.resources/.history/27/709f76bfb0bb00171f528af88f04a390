@@ -1,0 +1,11 @@
+package com.bridgelabz.spring.config;
+
+import com.bridgelabz.spring.lang.Language;
+import com.bridgelabz.spring.lang.impl.Vitenam;
+
+public class AppConfiguration {
+
+	public Language getLanguage(){
+		return new Vitenam() ;		
+	}
+}

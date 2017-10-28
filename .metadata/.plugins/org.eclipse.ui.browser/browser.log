@@ -1,0 +1,6 @@
+
+Oct 28, 2017 17:14:18.85 NEW SESSION
+Oct 28, 2017 17:14:18.86 [15226:15266:1028/171418.857997:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:14:18.91 Created new window in existing browser session.
+Oct 28, 2017 17:19:17.46 [15626:15666:1028/171917.463242:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:19:17.52 Created new window in existing browser session.

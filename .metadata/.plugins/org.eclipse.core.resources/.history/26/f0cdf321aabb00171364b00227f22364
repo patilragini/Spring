@@ -1,0 +1,17 @@
+package com.bridgelabz.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ApplicationContextAware;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.bridgelabz.spring.config.AppConfiguration;
+import com.bridgelabz.spring.lang.Language;
+
+public class MainProgramAnnotation {
+	public static void main(String args[]){
+		ApplicationContext contex=new AnnotationConfigApplicationContext(AppConfiguration.class);
+		System.out.println("=====================================");
+		Language language=(Language)contex.containsBean("lang");
+		
+	}
+}

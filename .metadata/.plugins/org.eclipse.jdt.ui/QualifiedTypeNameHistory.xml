@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.bean.MyRepository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.lang.impl.Vitenam"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContextAware"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.config.AppConfiguration"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.lang.Language"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.bean.MyComponent"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.bean.GreatingService"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.domain.Messaging"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.Communication"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.CommunicationSpring"/>
+<fullyQualifiedTypeName name="com.bridgelabz.spring.domain.Encryption"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+</qualifiedTypeNameHistroy>

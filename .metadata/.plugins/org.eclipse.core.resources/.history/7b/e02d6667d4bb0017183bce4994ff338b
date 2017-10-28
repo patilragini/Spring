@@ -1,0 +1,9 @@
+package com.bridgelabz.spring;
+
+public class TestMain {
+	 public static void main(String args[]){
+	        AbstractApplicationContext context = new ClassPathXmlApplicationContext("AppConfig.xml");
+	        Communication app = (Communication)context.getBean("communication");
+	        app.communicate();
+	    }
+}
