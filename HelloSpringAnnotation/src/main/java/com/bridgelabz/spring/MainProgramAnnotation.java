@@ -23,7 +23,7 @@ public class MainProgramAnnotation {
 
 		System.out.println("----------");
 
-		GreatingService service = (GreatingService) context.getBean("greetingService");
+		GreatingService service = (GreatingService) context.getBean("greatingService");
 
 		service.sayGreeting();
 

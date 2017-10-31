@@ -1,3 +1,0 @@
-127.0.0.1 - - [28/Oct/2017:17:19:16 +0530] "GET / HTTP/1.1" 404 994
-0:0:0:0:0:0:0:1 - - [28/Oct/2017:17:19:17 +0530] "GET /SpringDemo/WEB-INF/classes/com/bridgelabz/spring/TestMain.java HTTP/1.1" 404 992
-0:0:0:0:0:0:0:1 - - [28/Oct/2017:17:19:17 +0530] "GET /favicon.ico HTTP/1.1" 404 1016

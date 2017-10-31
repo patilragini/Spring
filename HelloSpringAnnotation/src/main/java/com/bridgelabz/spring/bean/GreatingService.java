@@ -4,21 +4,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.bridgelabz.spring.lang.Language;
-
-/**
- * @author bridgeit
- *
- */
 @Service
 public class GreatingService {
 
 	@Autowired
-	private Language lang;
+	private Language language;
 	public GreatingService(){
 		
 	}
 	public void sayGreeting(){
-		String greeting=lang.getGreeting();
+		String greeting=language.getGreeting();
 		System.out.println(greeting);
 	}
 	

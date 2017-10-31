@@ -1,0 +1,4 @@
+com/bridgelabz/controler/HelloWorld.class
+com/bridgelabz/config/SpringWebAppInitializer.class
+com/bridgelabz/config/ApplicationContextConfig.class
+com/bridgelabz/config/WebMvcConfig.class

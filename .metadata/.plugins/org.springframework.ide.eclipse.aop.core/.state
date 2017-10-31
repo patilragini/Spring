@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="HelloSpringAnnotation"/>
+<aop-project name="HelloWeb"/>
+<aop-project name="DependencyInjectorProperty"/>
+<aop-project name="DependencyInjectionConstructor"/>
 </aop-reference-model>
