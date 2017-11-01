@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/bridgeit/raginiSpring/ModelView"/>
+		<item value="/home/bridgeit/raginiServlet/DatabaseAccess"/>
+		<item value="/home/bridgeit/raginiSpring/URLDataExtract"/>
+		<item value="/home/bridgeit/raginiSpring/Spring_Hibernate_new"/>
+		<item value="/home/bridgeit/raginiSpring/Spring_Hibernate"/>
+		<item value="/home/bridgeit/raginiSpring/FormDataSend"/>
+	</list>
 	<section name="CleanDialogSettings">
 		<item value="563" key="DIALOG_WIDTH"/>
 		<item value="true" key="BUILD_ALL"/>

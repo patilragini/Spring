@@ -5,8 +5,8 @@
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="324" key="dialogHeight"/>
-		<item value="128" key="dialogWidth"/>
+		<item value="318" key="dialogHeight"/>
+		<item value="122" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="3"/>
 			<item value="1"/>
@@ -35,27 +35,21 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jpt.dbws"/>
-			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
-			<item value="org.eclipse.jst.ws.ui.new"/>
-			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
-		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ZipFile" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
-			<item value="org.eclipse.jst.ejb.ui"/>
-			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
-			<item value="org.eclipse.equinox.p2.category"/>
-			<item value="org.eclipse.jst.j2ee.internal"/>
-			<item value="org.eclipse.m2e"/>
-			<item value="org.eclipse.oomph.importWizards"/>
-			<item value="org.eclipse.pde.ui.PluginDevelopment"/>
-			<item value="org.eclipse.team.ui.importWizards"/>
-			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/home/bridgeit/Downloads/Spring4MVCCRUDRestService1.zip"/>
 		</list>
 	</section>
 </section>

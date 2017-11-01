@@ -12,7 +12,8 @@ public class HelloWorld {
 	@RequestMapping(value="/hello")
 	public  String hello(Model model){
 		System.out.println("hello");
-		model.addAttribute("greeting","Hello Spring Mvc");		
+		model.addAttribute("greeting","HelloSpringMvc");	
+		System.out.println(model);
 		return "helloworld";		
 	}
 }

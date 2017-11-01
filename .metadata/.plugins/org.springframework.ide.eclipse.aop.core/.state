@@ -3,4 +3,5 @@
 <aop-project name="HelloWeb"/>
 <aop-project name="DependencyInjectorProperty"/>
 <aop-project name="DependencyInjectionConstructor"/>
+<aop-project name="Spring"/>
 </aop-reference-model>

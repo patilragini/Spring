@@ -50,6 +50,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/bridgeit/raginiSpring/SendDataForm"/>
+			<item value="/home/bridgeit/raginiSpring/Spring_Hibernate"/>
+			<item value="/home/bridgeit/raginiSpring/FormDataSend"/>
 			<item value="/home/bridgeit/raginiSpring/HelloWeb"/>
 			<item value="/home/bridgeit/raginiSpring/SpringWeb"/>
 			<item value="/home/bridgeit/raginiSpring/DependencyInjectorProperty"/>
@@ -67,6 +70,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.bridgelabz"/>
+			<item value="com.bridgelabz.RestfulWebService"/>
+			<item value="com.bridgelabz.Spring_Hibernate2"/>
 			<item value="com.bridgelabz.program"/>
 			<item value="com.bridgelabz.HelloWeb"/>
 		</list>
@@ -74,6 +80,11 @@
 			<item value="com.bridgelabz"/>
 		</list>
 		<list key="artifactId">
+			<item value="springRestfull"/>
+			<item value="RestfulWebService"/>
+			<item value="Spring_Hibernate2"/>
+			<item value="bvc"/>
+			<item value="SendDataForm"/>
 			<item value=" vbvfdvv"/>
 			<item value="HelloWeb"/>
 		</list>
