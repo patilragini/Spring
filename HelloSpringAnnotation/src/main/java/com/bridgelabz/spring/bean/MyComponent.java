@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class MyComponent {
-	
 	@Autowired
 	private MyRepository repository;
 	

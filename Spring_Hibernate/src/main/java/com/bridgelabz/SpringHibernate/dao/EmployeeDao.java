@@ -3,10 +3,9 @@ package com.bridgelabz.SpringHibernate.dao;
 import java.util.List;
 
 import org.springframework.orm.hibernate5.HibernateTemplate;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.bridgelabz.SpringHibernate.model.Employee;
-@Transactional
+
 public class EmployeeDao {
 	
 	HibernateTemplate template;
@@ -18,11 +17,11 @@ public class EmployeeDao {
 	public void setTemplate(HibernateTemplate template) {
 		this.template = template;
 	}
-	@Transactional
+	
 	public int save(Employee employee){
 		return (Integer) template.save(employee);
 	}
-	@Transactional
+
 	public void update(Employee employee) {
 		template.update(employee);
 	}
@@ -36,7 +35,6 @@ public class EmployeeDao {
 	}
 	
 	public List<Employee> getAll() {
-		System.out.println(template.loadAll(Employee.class));
 		return template.loadAll(Employee.class);
 	}
 }
